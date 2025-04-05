@@ -45,9 +45,9 @@ Download the trained deep learning model (`model.h5`) from the following link:
 - Live location data will be sent to authorities (if enabled from the system).
 
 ## Contributors
+- [Bipasha Acharjee](https://github.com/bipasha1005)
 - [Animesh Ghosh](https://github.com/Animeshghosh07)
 - [Anurag Kumar Thakur](https://github.com/anuragthakur19)
-- [Bipasha Acharjee](https://github.com/bipasha1005)
 
 ## Acknowledgments
 - TensorFlow/Keras for deep learning
