@@ -24,7 +24,7 @@ Download the trained deep learning model (`model.h5`) from the following link:
 ## Installation
 1. Clone the repository:
    ```bash
-   https://github.com/Animeshghosh07/BINARY.git
+   https://github.com/Bipasha1005/BINARY.git
    cd violence-detection
    ```
 2. Install dependencies:
